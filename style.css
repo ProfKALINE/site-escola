@@ -8,8 +8,8 @@ body {
 }
 
 .cabecalho {
-  background-color: #bd6600;
-  color: white;
+  background-color: #1a40e9;
+  color: rgb(69, 153, 87);
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -31,8 +31,8 @@ body {
 }
 
 #inicio {
-  background-image: linear-gradient(#bd6600, #e9be4e);
-  color: white;
+  background-image: linear-gradient(#0062bd, #56af4e);
+  color: rgba(49, 148, 73, 0.726);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,7 +72,7 @@ body {
 }
 
 .rodape {
-  background-color: #bd6600;
+  background-color: #0078bd;
   text-align: center;
 }
 
